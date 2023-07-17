@@ -23,7 +23,7 @@ struct ContentView: View {
                 .fontWeight(.black)
                 .foregroundColor(Color.black)
             Button(action: {showBio.toggle()})
-            {Text(" m o r e  ")
+            {Text(" m o r e !")
                     .font(.headline)
                     .foregroundColor(Color.black)
                     .background(Color.white)
@@ -42,7 +42,7 @@ struct ContentView: View {
             }
             
                 
-                
+        
         }
     }
 }
